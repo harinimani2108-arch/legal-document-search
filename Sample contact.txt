@@ -1,0 +1,9 @@
+main project/
+│
+├── app.py                          # Backend Flask application
+├── templates/
+│   └── index.html                  # Frontend HTML page
+├── uploads/                        # Uploaded documents (created automatically)
+├── inverted_index.json            # Persistent index storage
+└── documents_metadata.json        # Document metadata storage
+
